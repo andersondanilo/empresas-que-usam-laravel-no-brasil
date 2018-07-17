@@ -15,6 +15,7 @@ Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | 
 Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
 WeJam | http://wejam.click/ | Agência de Publicidade | São Paulo-SP
 Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
+Interaktiv | https://www.interaktiv.com.br/ | Desenvolvimento de Sistemas | São Paulo-SP
 
 ## Projetos que usam Laravel no Brasil
 
